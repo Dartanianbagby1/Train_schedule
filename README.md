@@ -4,7 +4,7 @@ GETTING STARTED:
 
 
 
-Please find my page at:
+Please find my page at: https://dartanianbagby1.github.io/Train_schedule/.
 
 
 a. This project was a simple app implemented with HTML, css,JQuery,moment.js, and Firebase the app is an interface where the user can interface with a train schedule.
